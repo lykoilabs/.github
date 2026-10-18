@@ -18,4 +18,4 @@ from the diff. Note any ADR this touches or supersedes.
 - [ ] New behaviour has tests; simulation changes keep determinism (no wall clock, no map-order dependence)
 - [ ] Docs and ADRs updated where behaviour or decisions changed
 - [ ] No game client material, no copyleft-derived code, no new non-permissive dependency
-- [ ] Commit messages explain *why* and carry the coding-agent credit footer where applicable
+- [ ] Commit messages follow Conventional Commits, explain *why*, and carry the coding-agent credit footer where applicable

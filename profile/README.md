@@ -14,7 +14,7 @@ once there is something to document.
 
 ## Principles
 
-- **Clean room.** Everything here is original work under MIT OR Apache-2.0.
+- **Clean room.** Everything here is original work under the MIT license.
   No game client data, no reverse-engineered material and no copyleft
   derivatives are accepted, in any repository.
 - **Operable.** Metrics, traces, load bots and a deployment story ship with

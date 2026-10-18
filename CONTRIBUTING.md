@@ -19,11 +19,17 @@ likely choice) will be announced then.
 
 ## Licensing
 
-Everything in the organisation is dual-licensed **MIT OR Apache-2.0**.
+Everything in the organisation is licensed under the **MIT license**.
 Unless you explicitly state otherwise, any contribution intentionally
-submitted for inclusion in a project by you, as defined in the Apache-2.0
-license, is dual licensed as above, without any additional terms or
-conditions.
+submitted for inclusion in a project by you is licensed as above, without
+any additional terms or conditions.
+
+## Commit messages
+
+Commits follow [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/):
+`<type>(<optional scope>)[!]: <description>` with types `feat`, `fix`,
+`docs`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`. Breaking
+changes carry `!` and a `BREAKING CHANGE:` footer. The body explains why.
 
 ## Clean-room rules
 
